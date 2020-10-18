@@ -1,0 +1,12 @@
+﻿* {
+  overflow: hidden;
+  padding: 0px;
+  margin: 0px;
+}
+
+#stats {
+  z-index: 9999;
+  position: absolute;
+  top: 0%;
+  left: 0px;
+}
